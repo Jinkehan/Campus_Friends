@@ -1,0 +1,18 @@
+DIV.content {
+  margin: 100px 0 0 100px
+}
+
+DIV.legend {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 10px;
+}
+
+DIV.legend-item {
+  margin: 10px 10px 0 10px;
+}
+
+DIV.legend-color {
+  display: inline-block;
+  width: 16px;
+}
